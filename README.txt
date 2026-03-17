@@ -1,0 +1,1 @@
+teks random teks random teks random 
