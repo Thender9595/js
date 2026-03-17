@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "main": "node.js",
   "scripts": {
-    "build": "echo build done",
+    "build": "echo build done v2",
     "start": "node node.js"
   }
 }
